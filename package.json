@@ -1,0 +1,23 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "This repository contains our Express API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Is-it-lit-mega-project/api-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Is-it-lit-mega-project/api-express/issues"
+  },
+  "homepage": "https://github.com/Is-it-lit-mega-project/api-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
